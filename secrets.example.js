@@ -9,3 +9,4 @@ window.RECEIPT_OCR = {
   // 例: 長いランダム文字列（英数字32文字以上推奨）
   API_TOKEN: 'change-me-to-a-long-random-string'
 };
+
